@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: UVA 解題分享
+tagline: 還有高中生解題平台
 ---
 {% include JB/setup %}
 
